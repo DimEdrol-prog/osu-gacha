@@ -1,2 +1,0 @@
-# osu-gacha
-for updates
